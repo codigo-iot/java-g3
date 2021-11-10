@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>app-artifactID</name>
+	<name>app</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -22,7 +22,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1636399423715</id>
+			<id>1636576171795</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
